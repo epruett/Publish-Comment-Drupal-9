@@ -1,0 +1,8 @@
+publishcomment.content:
+  path: '/publishcomment'
+  defaults:
+    _controller: '\Drupal\publishcomment\Controller\FirstController::content'
+    _title: 'Publish Comment'
+  requirements:
+    _permission: 'access content'
+    

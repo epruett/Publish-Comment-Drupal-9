@@ -1,0 +1,6 @@
+name: Publish Comment
+description: 'Publish Comment'
+package: Development
+configure: publishcomment.settings
+type: module
+core_version_requirement: ^8 || ^9
